@@ -1,0 +1,58 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - nikunjanddonuts",
+            "request": "launch",
+            "mainClass": "nikunjanddonuts",
+            "projectName": "CodingNinjas-Eminence-CP-2018-_38c9bd64"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Main",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": "CodingNinjas-Eminence-CP-2018-_38c9bd64"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - murder",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "murder",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - returnpermutations",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "returnpermutations",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - power",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "power",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - stockspan",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "stockspan",
+            "args": ""
+        }
+    ]
+}
