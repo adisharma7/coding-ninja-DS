@@ -1,7 +1,5 @@
 import java.util.*;
-/**
- * firstindex
- */
+
 public class firstindex {
 
     public static void main(String[] args) {
@@ -10,8 +8,8 @@ public class firstindex {
 
     }
     
-    public static int firstIndex(int input[], int x) {
-        return index(input, 0, x);
+    public static int firstIndex(int input[], int y) {
+        return index(input, 0, y);
 
     }
 
